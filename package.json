@@ -1,0 +1,13 @@
+{
+  "name": "oblistrat-dialog",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "bin": {
+    "oblique-strategy": "bin/oblique-strategy.js"
+  },
+  "dependencies": {
+    "dialog": "^0.2.0",
+    "oblique-strategies": "github:ceejbot/oblique-strategies"
+  }
+}
